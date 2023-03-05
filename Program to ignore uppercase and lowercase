@@ -1,0 +1,11 @@
+public static void findPatient() {
+    if (myPatientList.getNumPatients() == 0) {
+        System.out.println("No patient information is stored.");
+    }
+    else {
+        System.out.print("Enter part of the patient name: ");
+        String name = sc.next();
+        sc.nextLine();
+        System.out.print(myPatientList.showPatients(name));
+    }
+}
