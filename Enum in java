@@ -1,0 +1,29 @@
+enum color
+{
+RED,
+BLACK,
+WHITE,
+}
+class MainEnum
+{
+public static void main(String[] args)
+{
+color c=color.RED;
+System.out.println(C);
+{
+SUNDAY,
+MONDAY,
+TUESDAY,
+WEDNESDAY,
+THURSDAY,
+FRIDAY,
+SATURDAY,
+}
+class MainEnum
+{
+public static void main(String[] args)
+Day d=Day.SUNDAY
+Switch (int d)
+case MONDAY;
+case TUESDAY;
+}
